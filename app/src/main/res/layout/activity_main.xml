@@ -53,7 +53,8 @@
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:onClick="goLogin"
-            android:text="Iniciar Sesión"
+            android:text="@string/login"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:backgroundTint="#9E1CBC"
             app:cornerRadius="10dp" />
 
@@ -63,7 +64,9 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:text="Registrarse"
+            android:onClick="goRegister"
+            android:text="@string/signup"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:backgroundTint="#9E1CBC"
             app:cornerRadius="10dp" />
     </LinearLayout>
