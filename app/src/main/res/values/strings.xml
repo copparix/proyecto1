@@ -8,4 +8,17 @@
     <string name="password">Contraseña</string>
     <string name="name">Nombre</string>
     <string name="surname">Apellido</string>
+    <string name="menu_title">Bienvenido a Universe Go</string>
+    <string name="menu_planet">Planetas</string>
+    <string name="menu_star">Estrellas</string>
+    <string name="menu_meteor">Meteoritos</string>
+    <string name="menu_cometa">Cometas</string>
+    <string name="menu_foro">Foro</string>
+    <string name="planeta_title">Planetas</string>
+    <string name="planeta_mercurio">Mercurio</string>
+    <string name="planeta_venus">Venus</string>
+    <string name="planeta_tierra">Tierra</string>
+    <string name="planeta_marte">Marte</string>
+    <string name="planeta_jupiter">Jupiter</string>
+
 </resources>
