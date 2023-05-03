@@ -20,5 +20,11 @@
     <string name="planeta_tierra">Tierra</string>
     <string name="planeta_marte">Marte</string>
     <string name="planeta_jupiter">Jupiter</string>
+    <string name="carga_titulo">Agregar un titulo...</string>
+    <string name="carga_foto">Agregar una imagen...</string>
+    <string name="carga_texto">Agregar Texto...</string>
+    <string name="carga_fuente">Fuente...</string>
+    <string name="carga_post"> Publicar </string>
+    <string name="carga_back">Volver atrás</string>
 
 </resources>
